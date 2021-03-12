@@ -1,0 +1,16 @@
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\ParquetUtils.exe
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\ParquetUtils.deps.json
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\ParquetUtils.runtimeconfig.json
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\ParquetUtils.runtimeconfig.dev.json
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\ParquetUtils.dll
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\ParquetUtils.pdb
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\IronSnappy.dll
+C:\git-hub\ParquetUtils\bin\Debug\netcoreapp3.1\Parquet.dll
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.csprojAssemblyReference.cache
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.AssemblyInfoInputs.cache
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.AssemblyInfo.cs
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.csproj.CoreCompileInputs.cache
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.csproj.CopyComplete
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.dll
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.pdb
+C:\git-hub\ParquetUtils\obj\Debug\netcoreapp3.1\ParquetUtils.genruntimeconfig.cache
