@@ -16,8 +16,8 @@ namespace ParquetUtils
                 new ParquetColumnDefinition { Name = "reward_report_dept",
                     Type = typeof(int) }
             };
-            SchemaCreator.WriteSchemaParquet(colDefs, "testi.parquet");
-
+            //SchemaCreator.WriteSchemaParquet(colDefs, "testi.parquet");
+            ParquetMergers.Merge(new string[] { @"C:\temp\order-dev.parquet", @"C:\temp\order-qa.parquet" }, @"C:\temp\order.parquet");
 
         }
     }
