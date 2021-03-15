@@ -17,7 +17,8 @@ namespace ParquetUtils
                     Type = typeof(int) }
             };
             //SchemaCreator.WriteSchemaParquet(colDefs, "testi.parquet");
-            ParquetMergers.Merge(new string[] { @"C:\temp\order-dev.parquet", @"C:\temp\order-qa.parquet" }, @"C:\temp\order.parquet");
+            //ParquetMergers.Merge(new string[] { @"C:\temp\order-dev.parquet", @"C:\temp\order-qa.parquet" }, @"C:\temp\order.parquet");
+            ParquetToCsv.Convert(@"C:\temp\order.parquet", @"C:\temp\order.csv");
 
         }
     }
